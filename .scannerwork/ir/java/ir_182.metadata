@@ -1,0 +1,4 @@
+Projet.hotel.services.ReservationServiceImpl#getReservationsForLoggedUser()Ljava/util/Collection;
+==
+getLoggedUserId Projet.hotel.services.UserService#getLoggedUserId()I
+findAllByUserId Projet.hotel.repository.ReservationRep#findAllByUserId(I)Ljava/util/Collection;

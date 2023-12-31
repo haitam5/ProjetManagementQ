@@ -1,0 +1,5 @@
+Projet.hotel.validation.FieldMatchValidator#initialize(LProjet/hotel/validation/FieldMatch;)V
+==
+first Projet.hotel.validation.FieldMatch#first()Ljava/lang/String;
+message Projet.hotel.validation.FieldMatch#message()Ljava/lang/String;
+second Projet.hotel.validation.FieldMatch#second()Ljava/lang/String;

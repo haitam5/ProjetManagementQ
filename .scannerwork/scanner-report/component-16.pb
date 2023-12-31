@@ -1,0 +1,1 @@
+ 2javaXhr?src/main/java/Projet/hotel/controller/HotelErrorController.java

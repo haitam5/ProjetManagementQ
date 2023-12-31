@@ -1,0 +1,7 @@
+Projet.hotel.controller.HotelReservationController#processRegistrationForm(LProjet/hotel/temp/CurrentUser;LBindingResult;LModel;)Ljava/lang/String;
+Projet.hotel.temp.CurrentUser#<init>()V
+Projet.hotel.temp.CurrentUser#instance-init#
+==
+saveUser Projet.hotel.services.UserService#saveUser(LProjet/hotel/temp/CurrentUser;)V
+getEmail Projet.hotel.temp.CurrentUser#getEmail()Ljava/lang/String;
+findUserByEmail Projet.hotel.services.UserService#findUserByEmail(Ljava/lang/String;)LProjet/hotel/entity/User;

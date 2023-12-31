@@ -1,0 +1,3 @@
+Projet.hotel.controller.HotelReservationController#deleteReservation(I)Ljava/lang/String;
+==
+deleteReservation Projet.hotel.services.ReservationService#deleteReservation(I)V

@@ -1,0 +1,53 @@
+
+YProjet.hotel.dao.RoleDaoImpl#findRoleByName(Ljava/lang/String;)LProjet/hotel/entity/Role;e
+[/H:/Emsi/lachgar/Projet-Management-Qualit√©/src/main/java/Projet/hotel/dao/RoleDaoImpl.java ("startingBlock*o
+2 ('[
+Y
+ ('#
+theRoleProjet.hotel.entity.Role"__id*"
+
+__unknown_file (
+""*
+1*é
+startingBlock (,è
+å
+ (
+
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+roleNamejava.lang.String\
+Z
+# (+
+roleNamejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%1*
+5*˚
+5 ('â
+Ü
+ ()
+%0"6Projet.hotel.dao.RoleDaoImpl#currentSession()LSession;*<
+
+__unknown_file ( 
+Projet.hotel.dao.RoleDaoImpl[
+Y
+ (#
+theRoleProjet.hotel.entity.Role"__id*"
+
+__unknown_file (
+""*
+2*@
+1$	 $("1
+$ $(%
+#
+theRoleProjet.hotel.entity.Role:(
+ (+
+roleNamejava.lang.StringB 
+Projet.hotel.dao.RoleDaoImplH

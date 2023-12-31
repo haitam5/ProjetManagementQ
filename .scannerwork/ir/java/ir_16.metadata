@@ -1,0 +1,2 @@
+Projet.hotel.dao.ReservationDaoImpl#deleteReservation(LProjet/hotel/entity/Reservation;)V
+Projet.hotel.dao.ReservationDaoImpl#currentSession()LSession;

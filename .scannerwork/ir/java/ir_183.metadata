@@ -1,0 +1,24 @@
+Projet.hotel.services.ReservationServiceImpl#saveOrUpdateReservation(LProjet/hotel/temp/CurrentReservation;)V
+Projet.hotel.entity.Reservation#<init>()V
+Projet.hotel.entity.Reservation#instance-init#
+==
+getArrivalDate Projet.hotel.temp.CurrentReservation#getArrivalDate()Ljava/util/Date;
+setPersons Projet.hotel.entity.Reservation#setPersons(I)V
+setRooms Projet.hotel.entity.Reservation#setRooms(I)V
+getRoom Projet.hotel.temp.CurrentReservation#getRoom()Ljava/lang/String;
+setId Projet.hotel.entity.Reservation#setId(I)V
+setStayDays Projet.hotel.entity.Reservation#setStayDays(I)V
+getChildren Projet.hotel.temp.CurrentReservation#getChildren()I
+getRooms Projet.hotel.temp.CurrentReservation#getRooms()I
+getPersons Projet.hotel.temp.CurrentReservation#getPersons()I
+setOpenBuffet Projet.hotel.entity.Reservation#setOpenBuffet(Ljava/lang/String;)V
+getStayPeriod Projet.hotel.temp.CurrentReservation#getStayPeriod()I
+getLoggedUserId Projet.hotel.services.UserService#getLoggedUserId()I
+getOpenBuffet Projet.hotel.temp.CurrentReservation#getOpenBuffet()Ljava/lang/String;
+setRoom Projet.hotel.entity.Reservation#setRoom(Ljava/lang/String;)V
+getPrice Projet.hotel.temp.CurrentReservation#getPrice()I
+setPrice Projet.hotel.entity.Reservation#setPrice(I)V
+setChildren Projet.hotel.entity.Reservation#setChildren(I)V
+setArrivalDate Projet.hotel.entity.Reservation#setArrivalDate(Ljava/util/Date;)V
+getId Projet.hotel.temp.CurrentReservation#getId()I
+setUserId Projet.hotel.entity.Reservation#setUserId(I)V

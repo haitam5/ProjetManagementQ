@@ -1,0 +1,8 @@
+Projet.hotel.exception.GlobalExceptionHandler#resourceNotFoundException(LProjet/hotel/exception/ResourceNotFoundException;LWebRequest;)LResponseEntity;
+null
+Projet.hotel.exception.ErrorDetails#<init>(Ljava/util/Date;Ljava/lang/String;Ljava/lang/String;)V
+Projet.hotel.exception.ErrorDetails#instance-init#
+java.util.Date#<init>()V
+java.util.Date#instance-init#
+==
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;

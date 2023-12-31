@@ -1,0 +1,10 @@
+Projet.hotel.entity.ReservationTest#testReservationCRUD()V
+Projet.hotel.entity.Reservation#<init>(Ljava/lang/String;IIIILjava/lang/String;Ljava/util/Date;II)V
+java.util.Date#<init>()V
+Projet.hotel.entity.Reservation#instance-init#
+java.util.Date#instance-init#
+==
+getRoom Projet.hotel.entity.Reservation#getRoom()Ljava/lang/String;
+setPrice Projet.hotel.entity.Reservation#setPrice(I)V
+getId Projet.hotel.entity.Reservation#getId()I
+getPrice Projet.hotel.entity.Reservation#getPrice()I

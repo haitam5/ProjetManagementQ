@@ -1,0 +1,3 @@
+Projet.hotel.controller.HotelReservationController#proceedReservation(LProjet/hotel/temp/CurrentReservation;LBindingResult;LModel;)Ljava/lang/String;
+==
+saveOrUpdateReservation Projet.hotel.services.ReservationService#saveOrUpdateReservation(LProjet/hotel/temp/CurrentReservation;)V

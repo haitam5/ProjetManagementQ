@@ -1,0 +1,4 @@
+Projet.hotel.security.SecurityConfig#authenticationProvider()LDaoAuthenticationProvider;
+null
+==
+passwordEncoder Projet.hotel.security.SecurityConfig#passwordEncoder()LBCryptPasswordEncoder;

@@ -1,0 +1,3 @@
+Projet.hotel.controller.HotelReservationController#reservationsList(LModel;)Ljava/lang/String;
+==
+getReservationsForLoggedUser Projet.hotel.services.ReservationService#getReservationsForLoggedUser()Ljava/util/Collection;

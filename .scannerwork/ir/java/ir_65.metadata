@@ -1,0 +1,13 @@
+Projet.hotel.services.UserServiceImpl#saveUser(LProjet/hotel/temp/CurrentUser;)V
+Projet.hotel.entity.User#<init>()V
+Projet.hotel.entity.User#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+setPassword Projet.hotel.entity.User#setPassword(Ljava/lang/String;)V
+getUsername Projet.hotel.temp.CurrentUser#getUsername()Ljava/lang/String;
+setRoles Projet.hotel.entity.User#setRoles(Ljava/util/Collection;)V
+setEmail Projet.hotel.entity.User#setEmail(Ljava/lang/String;)V
+findByName Projet.hotel.repository.RoleRep#findByName(Ljava/lang/String;)LProjet/hotel/entity/Role;
+getPassword Projet.hotel.temp.CurrentUser#getPassword()Ljava/lang/String;
+getEmail Projet.hotel.temp.CurrentUser#getEmail()Ljava/lang/String;
+setUsername Projet.hotel.entity.User#setUsername(Ljava/lang/String;)V

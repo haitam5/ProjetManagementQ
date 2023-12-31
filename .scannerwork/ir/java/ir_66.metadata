@@ -1,0 +1,5 @@
+Projet.hotel.services.UserServiceImpl#getLoggedUserId()I
+Projet.hotel.services.UserServiceImpl#loggedUserEmail()Ljava/lang/String;
+==
+getId Projet.hotel.entity.User#getId()I
+findByUsername Projet.hotel.repository.UserRep#findByUsername(Ljava/lang/String;)LProjet/hotel/entity/User;

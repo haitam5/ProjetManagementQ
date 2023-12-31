@@ -1,0 +1,7 @@
+organization=projettest
+projectKey=projettest_managementqualite
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=projettest_managementqualite
+ceTaskId=AYzAS1gc7mqWszH00V8l
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzAS1gc7mqWszH00V8l

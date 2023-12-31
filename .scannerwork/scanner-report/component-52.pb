@@ -1,0 +1,1 @@
+4 2cssXqhr'src/main/resources/static/css/slick.css

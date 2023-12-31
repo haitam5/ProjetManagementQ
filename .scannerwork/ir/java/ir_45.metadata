@@ -1,0 +1,3 @@
+Projet.hotel.controller.HotelReservationController#updateReservation(ILModel;)Ljava/lang/String;
+==
+reservationToCurrentReservationById Projet.hotel.services.ReservationService#reservationToCurrentReservationById(I)LProjet/hotel/temp/CurrentReservation;

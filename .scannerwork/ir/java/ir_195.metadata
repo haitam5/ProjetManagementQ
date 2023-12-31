@@ -1,0 +1,2 @@
+Projet.hotel.dao.UserDaoImpl#saveUser(LProjet/hotel/entity/User;)V
+Projet.hotel.dao.UserDaoImpl#currentSession()LSession;

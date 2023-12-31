@@ -1,0 +1,3 @@
+Projet.hotel.security.CustomAuthenticationSuccessHandler#onAuthenticationSuccess(LHttpServletRequest;LHttpServletResponse;LAuthentication;)V
+==
+findUserByEmail Projet.hotel.services.UserService#findUserByEmail(Ljava/lang/String;)LProjet/hotel/entity/User;

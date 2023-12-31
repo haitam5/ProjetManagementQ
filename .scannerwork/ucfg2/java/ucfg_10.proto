@@ -1,0 +1,15 @@
+
+BProjet.hotel.exception.ErrorDetails#getTimestamp()Ljava/util/Date;l
+b/H:/Emsi/lachgar/Projet-Management-Qualit√©/src/main/java/Projet/hotel/exception/ErrorDetails.java ("1*Ø
+1	 (|
+z
+	 (
+%0java.util.Date"__id*R
+
+__unknown_file (6*4%
+#Projet.hotel.exception.ErrorDetails"
+	timestamp""
+ (
+
+%0java.util.DateB'%
+#Projet.hotel.exception.ErrorDetailsH

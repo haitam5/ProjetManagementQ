@@ -1,0 +1,4 @@
+Projet.hotel.validation.EmailValidator#isValid(Ljava/lang/String;LConstraintValidatorContext;)Z
+java.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;
+java.util.regex.Matcher#matches()Z
+java.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;

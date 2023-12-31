@@ -1,0 +1,72 @@
+
+5Projet.hotel.entity.Role#toString()Ljava/lang/String;a
+W/H:/Emsi/lachgar/Projet-Management-QualitÃ©/src/main/java/Projet/hotel/entity/Role.java6 6("1*¤
+17	 7(Z
+X
+7	 7(
+%0java.lang.String"__concat*
+7	 7(	
+Role{*
+7 7(
+id=j
+h
+7 7(
+%1java.lang.Long"__id*@
+
+__unknown_file ($*"
+Projet.hotel.entity.Role"
+idx
+v
+7	 7(
+%2java.lang.String"__concat*$
+7	 7(
+
+%0java.lang.String*"
+7 7(
+
+%1java.lang.Longn
+l
+7	 7(*
+%3java.lang.String"__concat*$
+7	 7(
+
+%2java.lang.String*
+7  7(*
+
+, name='n
+l
+7- 7(1
+%4java.lang.String"__id*B
+
+__unknown_file (&*$
+Projet.hotel.entity.Role"
+namez
+x
+7	 7(1
+%5java.lang.String"__concat*$
+7	 7(*
+
+%3java.lang.String*$
+7- 7(1
+
+%4java.lang.Stringh
+f
+7	 7(8
+%6java.lang.String"__concat*$
+7	 7(1
+
+%5java.lang.String*
+74 7(8
+\'g
+e
+7	 7(>
+%7java.lang.String"__concat*$
+7	 7(8
+
+%6java.lang.String*
+7; 7(>
+}"$
+7 7(?
+
+%7java.lang.StringB
+Projet.hotel.entity.RoleH

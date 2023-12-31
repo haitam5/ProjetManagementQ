@@ -1,0 +1,55 @@
+
+:Projet.hotel.temp.CurrentRole#toString()Ljava/lang/String;f
+\/H:/Emsi/lachgar/Projet-Management-Qualit√©/src/main/java/Projet/hotel/temp/CurrentRole.java& &("1*„
+1'	 '(o
+m
+' '( 
+%0java.lang.Long"__id*E
+
+__unknown_file ()*'
+Projet.hotel.temp.CurrentRole"
+idt
+r
+'	 '( 
+%1java.lang.String"__concat* 
+'	 '(
+CurrentRole [id=*"
+' '( 
+
+%0java.lang.Longm
+k
+'	 '(,
+%2java.lang.String"__concat*$
+'	 '( 
+
+%1java.lang.String*
+'# '(,	
+, name=s
+q
+'/ '(3
+%3java.lang.String"__id*G
+
+__unknown_file (+*)
+Projet.hotel.temp.CurrentRole"
+namez
+x
+'	 '(3
+%4java.lang.String"__concat*$
+'	 '(,
+
+%2java.lang.String*$
+'/ '(3
+
+%3java.lang.Stringg
+e
+'	 '(9
+%5java.lang.String"__concat*$
+'	 '(3
+
+%4java.lang.String*
+'6 '(9
+]"$
+' '(:
+
+%5java.lang.StringB!
+Projet.hotel.temp.CurrentRoleH

@@ -1,0 +1,3 @@
+Projet.hotel.services.ReservationServiceImpl#getReservationForLoggedUserById(I)LProjet/hotel/entity/Reservation;
+==
+findById Projet.hotel.repository.ReservationRep#findById(I)LProjet/hotel/entity/Reservation;

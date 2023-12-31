@@ -1,0 +1,2 @@
+Projet.hotel.dao.ReservationDaoImpl#getReservationsByUserId(I)Ljava/util/Collection;
+Projet.hotel.dao.ReservationDaoImpl#currentSession()LSession;

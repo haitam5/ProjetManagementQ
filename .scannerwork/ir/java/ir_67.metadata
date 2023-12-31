@@ -1,0 +1,8 @@
+Projet.hotel.services.UserServiceImpl#loadUserByUsername(Ljava/lang/String;)LUserDetails;
+null
+Projet.hotel.services.UserServiceImpl#mapRolesToAuthorities(Ljava/util/Collection;)Ljava/util/Collection;
+==
+getRoles Projet.hotel.entity.User#getRoles()Ljava/util/Collection;
+getUsername Projet.hotel.entity.User#getUsername()Ljava/lang/String;
+findByEmail Projet.hotel.repository.UserRep#findByEmail(Ljava/lang/String;)LProjet/hotel/entity/User;
+getPassword Projet.hotel.entity.User#getPassword()Ljava/lang/String;

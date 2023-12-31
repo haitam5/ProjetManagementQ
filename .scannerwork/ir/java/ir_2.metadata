@@ -1,0 +1,3 @@
+Projet.hotel.security.SecurityConfig#configure(LAuthenticationManagerBuilder;)V
+==
+authenticationProvider Projet.hotel.security.SecurityConfig#authenticationProvider()LDaoAuthenticationProvider;
